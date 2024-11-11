@@ -1,1 +1,3 @@
 This is a sample text."Sample added".
+this is 1st line 
+this is second line
